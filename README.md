@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Socrates</h1>
 <h3 align="center">A passionate Front End Web Developer with a strong interest in creating responsive and user-friendly web applications. Enjoy experimenting with various programming languages such as JavaScript, PHP, and Java, and skilled in creating beautiful UI/UX designs. Deeply committed to academic research and leveraging technology to positively impact the Computer Science field. Also dedicated to continuous learning and staying up to date with the latest trends and best practices in the industry to ensure the highest quality output for my projects.</h3>
 
-- 📝 I regularly write articles at my LinkedIn [linkedin.com/in/socrates-mosko](linkedin.com/in/socrates-mosko)
+- 📝 I regularly write articles on my LinkedIn profile: [linkedin.com/in/socrates-mosko](linkedin.com/in/socrates-mosko)
 
-- 📫 How to reach me **socrates.mosko@gmail.com**
+- 📫 How to reach me: **socrates.mosko@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
