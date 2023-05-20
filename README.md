@@ -1,4 +1,4 @@
-![Copy of Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/119309614/222038549-11bc4913-7747-40fa-af48-0d3a1331876d.png)
+![Copy of Black Technology LinkedIn Banner (1)](https://github.com/socratesmosko/socratesmosko/assets/119309614/66332b50-ca40-4bce-90a4-c2c9a1689aea)
 <h1 align="center">Hi 👋, I'm Socrates</h1>
 
 A passionate Mobile App/Front End Web Developer with a strong interest in creating user-friendly Web and Mobile Applications. Enjoy experimenting with various programming languages such as JavaScript, Kotlin, and Java, and skilled in creating beautiful UI/UX designs. Deeply committed to academic research and leveraging technology to positively impact the Computer Science field. Also dedicated to continuous learning and staying up to date with the latest trends and best practices in the industry to ensure the highest quality output for my projects.
