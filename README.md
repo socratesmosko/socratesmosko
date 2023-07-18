@@ -87,8 +87,7 @@ A Full-Stack Web Developer with a strong interest in creating user-friendly Web 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
-  <a href="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+ 
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
    
