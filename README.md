@@ -1,7 +1,7 @@
-![Socrates Mosko Banner](https://github.com/socratesmosko/socratesmosko/assets/119309614/f8a8c4fa-1459-4ad0-8ed2-ce7e5432641a)
+![Banner](https://github.com/socratesmosko/socratesmosko/assets/119309614/a2f4d058-5e79-45c6-8fa2-7d5f78367872)
 <h1 align="center">Hi 👋, I'm Socrates</h1>
 
-A Full-Stack Web Developer with a strong interest in creating user-friendly Web Applications. Enjoy experimenting with various programming languages such as JavaScript, PHP, and Java, and skilled in creating beautiful UI/UX designs. Deeply committed to academic research and leveraging technology to positively impact the Computer Science field. Also dedicated to continuous learning and staying up to date with the latest trends and best practices in the industry to ensure the highest quality output for my projects.
+A Front-End Web Developer with a strong interest in creating user-friendly Web Applications. Enjoy experimenting with various programming languages such as JavaScript, PHP, and Java, and skilled in creating beautiful UI/UX designs. Deeply committed to academic research and leveraging technology to positively impact the Computer Science field. Also dedicated to continuous learning and staying up to date with the latest trends and best practices in the industry to ensure the highest quality output for my projects.
 
 
 - 📝 I regularly write articles on my LinkedIn profile: [linkedin.com/in/socrates-mosko](linkedin.com/in/socrates-mosko)
