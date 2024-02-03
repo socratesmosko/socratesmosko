@@ -1,4 +1,4 @@
-![Banner](https://github.com/socratesmosko/socratesmosko/assets/119309614/073d6702-b091-41f8-9c07-10732214cf1d)
+![Banner](https://github.com/socratesmosko/socratesmosko/assets/119309614/b7261c63-01b8-4ac2-bf16-a0acce5496a4)
 
 <h1 align="center">Hi 👋, I'm Socrates</h1>
 
