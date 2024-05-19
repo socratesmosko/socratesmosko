@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Socrates</h1>
 
-A Front-End Web Developer with a strong interest in creating user-friendly Web Applications. Enjoy experimenting with various programming languages such as JavaScript, Java, and PHP, and skilled in creating beautiful UI/UX designs. Deeply committed to academic research and leveraging technology to positively impact the Computer Science field. Also dedicated to continuous learning and staying up to date with the latest trends and best practices in the industry to ensure the highest quality output for my projects.
+Front-end developer with professional experience in creating robust and scalable applications using technologies such as React, React Native, Redux, TypeScript, and Tailwind CSS. Proven track record of contributing to large-scale software projects, ensuring high-quality code, and delivering exceptional user experiences. Skilled in building intuitive and high-performance interfaces, with a strong focus on detail and a commitment to continuous learning in the ever-evolving landscape of web development.
 
 
 - 📝 I regularly write articles on my LinkedIn profile: [linkedin.com/in/socrates-mosko](linkedin.com/in/socrates-mosko)
