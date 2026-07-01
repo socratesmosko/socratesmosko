@@ -5,13 +5,13 @@
 Full Stack Software Engineer with professional experience developing enterprise software across frontend, backend, mobile, and AI-driven applications. Skilled in React, React Native, Node.js, TypeScript, Java, and Spring Boot, with hands-on experience architecting scalable systems, building REST APIs, and delivering production-ready solutions for enterprise clients. Passionate about software architecture, clean code, and solving complex business problems through modern technologies.
 
 
-- 📝 I regularly write articles on my LinkedIn profile: [linkedin.com/in/socrates-mosko](linkedin.com/in/socrates-mosko)
+- 📝 I regularly write articles on my LinkedIn profile: [linkedin.com/in/socrates-mosko](linkedin.com/in/sokratis-mosko)
 
 - 📫 How to reach me: **socrates.mosko@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/socrates-mosko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/socrates-mosko" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/sokratis-mosko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/socrates-mosko" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
