@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Socrates</h1>
 
-Front-end developer with professional experience in creating robust and scalable applications using technologies such as React, React Native, Redux, TypeScript, and Tailwind CSS. Proven track record of contributing to large-scale software projects, ensuring high-quality code, and delivering exceptional user experiences. Skilled in building intuitive and high-performance interfaces, with a strong focus on detail and a commitment to continuous learning in the ever-evolving landscape of web development.
+Full Stack Software Engineer with professional experience developing enterprise software across frontend, backend, mobile, and AI-driven applications. Skilled in React, React Native, Node.js, TypeScript, Java, and Spring Boot, with hands-on experience architecting scalable systems, building REST APIs, and delivering production-ready solutions for enterprise clients. Passionate about software architecture, clean code, and solving complex business problems through modern technologies.
 
 
 - 📝 I regularly write articles on my LinkedIn profile: [linkedin.com/in/socrates-mosko](linkedin.com/in/socrates-mosko)
