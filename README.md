@@ -1,5 +1,3 @@
-![Banner](https://github.com/socratesmosko/socratesmosko/assets/119309614/b7261c63-01b8-4ac2-bf16-a0acce5496a4)
-
 <h1 align="center">Hi 👋, I'm Socrates</h1>
 
 Full Stack Software Engineer with professional experience developing enterprise software across frontend, backend, mobile, and AI-driven applications. Skilled in React, React Native, Node.js, TypeScript, Java, and Spring Boot, with hands-on experience architecting scalable systems, building REST APIs, and delivering production-ready solutions for enterprise clients. Passionate about software architecture, clean code, and solving complex business problems through modern technologies.
